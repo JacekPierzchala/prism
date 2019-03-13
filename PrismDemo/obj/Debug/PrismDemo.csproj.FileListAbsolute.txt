@@ -1,0 +1,23 @@
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\PrismDemo.exe.config
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\PrismDemo.exe
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\PrismDemo.pdb
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\Prism.dll
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\Prism.pdb
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\bin\Debug\Prism.xml
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.csprojResolveAssemblyReference.cache
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\App.g.cs
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo_MarkupCompile.cache
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo_MarkupCompile.lref
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.g.resources
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.Properties.Resources.resources
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.csproj.GenerateResource.Cache
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.exe
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\PrismDemo.pdb
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\Views\MainView.g.cs
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\Views\MainView.baml
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\Views\ViewA.g.cs
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\Views\ViewA.baml
+c:\users\zaneta\documents\visual studio 2015\Projects\PrismDemo\PrismDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zaneta\Source\Repos\JacekPierzchala\prism\PrismDemo\bin\Debug\PrismDemo.exe.config
+C:\Users\Zaneta\Source\Repos\JacekPierzchala\prism\PrismDemo\obj\Debug\PrismDemo.exe
+C:\Users\Zaneta\Source\Repos\JacekPierzchala\prism\PrismDemo\obj\Debug\PrismDemo.pdb
